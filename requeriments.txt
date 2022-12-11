@@ -1,0 +1,17 @@
+Librerias
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns;
+from sklearn import preprocessing
+import matplotlib.pyplot as plt
+
+Preparación datos
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import f1_score
+
+Modelos
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import cross_val_score
