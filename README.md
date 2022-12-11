@@ -4,7 +4,7 @@ Nombre: Daniel Gutierrez Rodríguez
 
 Dataset: [Video Games Sales 2019](https://www.kaggle.com/ashaheedq/video-games-sales-2019)
 
-# Caso Kaggle
+# Video Games Sales 2019
 En esta practica analizaremos un dataset con datos sobre las ventas de los videojueos a lo largo del año 2019 (https://www.kaggle.com/ashaheedq/video-games-sales-2019). Se analizan los datos y sus valores. Se ha realizado una  normalización de los mismos y hemos trabajado con ellos mediante el uso de modelos de classificación. 
 
 Como se explica en el informe, los datos de nuestro dataset están poco correlacionados por lo que realizar su estudio es algo complejo.
